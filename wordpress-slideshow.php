@@ -21,3 +21,4 @@ if ( ! defined( 'WORDPRESS_SLIDESHOW_DIR' ) ) {
 }
 
 require WORDPRESS_SLIDESHOW_DIR . '/includes/admin/class-admin-settings.php';
+require WORDPRESS_SLIDESHOW_DIR . '/includes/shortcodes/class-wordpress-shortcode.php';
