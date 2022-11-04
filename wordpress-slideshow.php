@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     WordPress Slideshow
  * Plugin URI:      https://github.com/fullstackyash/WordPress-Slideshow
- * Description:     WordPress plugin for creating slideshow.
+ * Description:     WordPress plugin for creating image slideshow.
  * Author:          Yash Chopra
  * Author URI:      https://github.com/fullstackyash
  * Text Domain:     wordpress-slideshow
