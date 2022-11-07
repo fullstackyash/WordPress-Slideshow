@@ -1,6 +1,5 @@
 === Wordpress Slideshow ===
 Contributors: wpyash
-Donate link: https://example.com/
 Tags: worpress, slideshow
 Requires at least: 4.5
 Tested up to: 6.0.3
@@ -13,4 +12,4 @@ Wordpress plugin for creating image slideshow.
 
 == Description ==
 
-This plugin creates an admin page which allows user to add slidehow and the slideshow can be rendered on the front-end by using shortcode 'wordpress_slideshow' on ay page..
+This plugin creates an admin page which allows user to add slidehow and the slideshow can be rendered on the front-end by using shortcode 'wordpress_slideshow' on any page.
