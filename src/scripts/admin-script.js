@@ -51,7 +51,7 @@ jQuery( function($){
 		const container = button.parent().parent()
 		const hiddenField = container.next()
 		const hiddenFieldValue = hiddenField.val().split(",")
-		const i = hiddenFieldValue.indexOf( imageId )
+		const i = hiddenFieldValue.indexOf( imageId.toString() )
 
 		button.parent().remove();
 
